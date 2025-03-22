@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    background-color: #212121; /* Dark Mode */
+    color: #E2E2E2;
+  }
+}
